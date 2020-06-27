@@ -1,6 +1,6 @@
 {
   "name": "@bugbearr/hello-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Hello, world by cli",
   "author": "BugbearR <bugbearr@bugbearr.jp> (https://bugbearr.github.io)",
   "license": "CC0-1.0",
